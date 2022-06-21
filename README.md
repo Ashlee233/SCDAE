@@ -1,4 +1,4 @@
-# File Description
+## File Description
 * **Lorenz_data**: In this work, we use the **Lorenz_data.mat** and **Lorenz_validation_data.mat** dataset in this folder for model training and validation, and use the **Lorenz_test_data.mat** dataset as the test data.
 * **data_generation.py**: Read the dataset in the **Lorenz_data** folder, normalize the data and add noise to it.
 * **model.py**: The model used by SCDAE.
@@ -11,6 +11,6 @@
 <img src="fig/Figure_6.png" width="680">
 </div>
 
-# Copyright
-If you use our codes in your research, please acknowledge our work by citing the following paper:
+## Copyright
+If you use our codes in your research, please acknowledge our work by citing the following paper:  
 Chaotic Signal Denoising Based on Convolutional Denoising Auto-Encoder
