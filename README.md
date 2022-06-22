@@ -5,10 +5,10 @@
 * **hparams.py**: Hyperparameters for the model.
 * **eval.py**: Evaluate the model training results and plot the phase-space portraits of the Lorenz attractor and 1D comparison chart.
 <div align=center>
-<img src="fig/Figure_1.png" width="337"><img src="fig/Figure_2.png" width="337"><img src="fig/Figure_3.png" width="337">
-<img src="fig/Figure_4.png" width="680">
-<img src="fig/Figure_5.png" width="680">
-<img src="fig/Figure_6.png" width="680">
+<img src="fig/Figure_1.png" width="330"><img src="fig/Figure_2.png" width="330"><img src="fig/Figure_3.png" width="330">
+<img src="fig/Figure_4.png" width="650">
+<img src="fig/Figure_5.png" width="650">
+<img src="fig/Figure_6.png" width="650">
 </div>
 
 ## Copyright
