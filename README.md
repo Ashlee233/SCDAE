@@ -14,3 +14,4 @@
 ## Copyright
 If you use our codes in your research, please acknowledge our work by citing the following paper:  
 Chaotic Signal Denoising Based on Convolutional Denoising Auto-Encoder
+https://www.sciencedirect.com/science/article/pii/S0960077922005434
